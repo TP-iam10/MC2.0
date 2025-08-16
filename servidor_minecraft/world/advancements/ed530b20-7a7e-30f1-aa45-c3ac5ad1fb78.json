@@ -448,7 +448,8 @@
     "criteria": {
       "bread": "2025-08-16 21:42:32 +0000",
       "cooked_chicken": "2025-08-16 21:26:31 +0000",
-      "cooked_mutton": "2025-08-16 23:14:00 +0000"
+      "cooked_mutton": "2025-08-16 23:14:00 +0000",
+      "cooked_salmon": "2025-08-16 23:33:49 +0000"
     },
     "done": false
   },
@@ -1288,6 +1289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-16 23:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-08-16 23:17:16 +0000"
@@ -1297,6 +1304,18 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-16 23:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-16 23:31:43 +0000"
     },
     "done": true
   },
