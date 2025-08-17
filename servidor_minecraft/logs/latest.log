@@ -1,72 +1,34 @@
-[22:02:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:02:05] [ServerMain/INFO]: Loaded 1407 recipes
-[22:02:05] [ServerMain/INFO]: Loaded 1520 advancements
-[22:02:05] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[22:02:05] [Server thread/INFO]: Loading properties
-[22:02:05] [Server thread/INFO]: Default game type: SURVIVAL
-[22:02:05] [Server thread/INFO]: Generating keypair
-[22:02:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:02:05] [Server thread/INFO]: Using epoll channel type
-[22:02:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:02:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:02:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:02:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:02:05] [Server thread/INFO]: Preparing level "world"
-[22:02:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:02:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:02:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:02:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:02:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:02:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:02:08] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[22:02:09] [Server thread/INFO]: Time elapsed: 2930 ms
-[22:02:09] [Server thread/INFO]: Done (3.267s)! For help, type "help"
-[22:02:51] [Server thread/INFO]: TP_iam[/127.47.212.246:39215] logged in with entity id 14 at (-396.03786573338084, 66.0, -275.1207887943632)
-[22:02:51] [Server thread/INFO]: TP_iam joined the game
-[22:09:40] [Server thread/INFO]: DOLAR[/127.27.209.234:53797] logged in with entity id 1038 at (-396.72915982189437, 71.16610926093821, -279.2429834029502)
-[22:09:40] [Server thread/INFO]: DOLAR joined the game
-[22:09:59] [Server thread/INFO]: [Not Secure] <TP_iam> juannnnn
-[22:10:14] [Server thread/INFO]: [Not Secure] <TP_iam> traelo
-[22:10:20] [Server thread/INFO]: [Not Secure] <TP_iam> toma
-[22:11:31] [Server thread/INFO]: [Not Secure] <DOLAR> a dond elol lllevo
-[22:11:35] [Server thread/INFO]: [Not Secure] <TP_iam> aca
-[22:14:07] [Server thread/INFO]: [Not Secure] <TP_iam> toma
-[22:14:19] [Server thread/INFO]: [Not Secure] <DOLAR> chevere
-[22:14:20] [Server thread/INFO]: [Not Secure] <TP_iam> dime grasias papi
-[22:14:35] [Server thread/INFO]: [Not Secure] <TP_iam> duerme
-[22:14:55] [Server thread/INFO]: [Not Secure] <DOLAR> grazie
-[22:15:10] [Server thread/INFO]: [Not Secure] <TP_iam> duermeeeeee
-[22:17:46] [Server thread/INFO]: [Not Secure] <DOLAR> que era "afk"?
-[22:18:01] [Server thread/INFO]: [Not Secure] <TP_iam> estar en un lugar sin moverse
-[22:18:09] [Server thread/INFO]: [Not Secure] <DOLAR> voy a estar a afk xd
-[22:18:14] [Server thread/INFO]: [Not Secure] <TP_iam> por?
-[22:18:29] [Server thread/INFO]: [Not Secure] <DOLAR> ya hice la granja de zombies
-[22:20:58] [Server thread/INFO]: [Not Secure] <TP_iam> BUENAAAAA
-[22:21:16] [Server thread/INFO]: [Not Secure] <DOLAR> que hacemos ahora??
-[22:21:33] [Server thread/INFO]: [Not Secure] <TP_iam> voy a minear nesesito hierro para la granja de hierro
-[22:21:47] [Server thread/INFO]: [Not Secure] <TP_iam> digo granja de aldeanos
-[22:22:03] [Server thread/INFO]: [Not Secure] <DOLAR> dejare piedra en los cofres
-[22:37:56] [Server thread/INFO]: [Not Secure] <TP_iam> encontre una mega cueva tengo de todo
-[22:38:04] [Server thread/INFO]: [Not Secure] <TP_iam> ya lo luetie todo
-[22:38:12] [Server thread/INFO]: [Not Secure] <TP_iam> tengo un stak de hierro
-[22:42:54] [Server thread/INFO]: TP_iam lost connection: Disconnected
-[22:42:54] [Server thread/INFO]: TP_iam left the game
-[22:42:54] [Server thread/WARN]: handleDisconnection() called twice
-[22:43:16] [Server thread/INFO]: [Not Secure] <DOLAR> alaaaaaa
-[22:43:33] [Server thread/INFO]: TP_iam[/127.47.212.246:55325] logged in with entity id 8234 at (-409.54681032109437, 79.17675927506424, -218.06775433757176)
-[22:43:33] [Server thread/INFO]: TP_iam joined the game
-[22:43:42] [Server thread/INFO]: [Not Secure] <DOLAR> alaaaaa
-[22:43:50] [Server thread/INFO]: [Not Secure] <DOLAR> me avisas en que ayudo
-[22:46:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-394, y=73, z=-259} jb{x=-396, y=71, z=-260}
-[22:46:38] [Server thread/INFO]: [Not Secure] <DOLAR> tenes acrbon?
-[22:46:42] [Server thread/INFO]: [Not Secure] <TP_iam> OBIX
-[22:47:12] [Server thread/INFO]: [Not Secure] <TP_iam> jajajjaa
-[22:47:18] [Server thread/INFO]: [Not Secure] <TP_iam> es para la granja
-[22:47:26] [Server thread/INFO]: [Not Secure] <DOLAR> xd
-[22:48:05] [Server thread/INFO]: [Not Secure] <TP_iam> traeme arena
-[22:48:10] [Server thread/INFO]: [Not Secure] <DOLAR> perame
-[22:48:10] [Server thread/INFO]: [Not Secure] <TP_iam> que haces
-[22:48:16] [Server thread/INFO]: [Not Secure] <DOLAR> ya vuelvo
-[22:48:23] [Server thread/INFO]: [Not Secure] <TP_iam> ok
-[22:50:23] [Server thread/INFO]: [Not Secure] <TP_iam> te digo podras traerme rexton
-[22:52:12] [Server thread/INFO]: [Not Secure] <DOLAR> te di arenae
+[23:14:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:14:09] [ServerMain/INFO]: Loaded 1407 recipes
+[23:14:09] [ServerMain/INFO]: Loaded 1520 advancements
+[23:14:09] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[23:14:09] [Server thread/INFO]: Loading properties
+[23:14:09] [Server thread/INFO]: Default game type: SURVIVAL
+[23:14:09] [Server thread/INFO]: Generating keypair
+[23:14:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:14:09] [Server thread/INFO]: Using epoll channel type
+[23:14:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:14:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:14:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:14:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:14:09] [Server thread/INFO]: Preparing level "world"
+[23:14:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:14:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:14:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:14:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:14:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:14:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:14:12] [Server thread/INFO]: Time elapsed: 2367 ms
+[23:14:12] [Server thread/INFO]: Done (2.736s)! For help, type "help"
+[23:15:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:17:46] [Server thread/INFO]: Stopping the server
+[23:17:46] [Server thread/INFO]: Stopping server
+[23:17:46] [Server thread/INFO]: Saving players
+[23:17:46] [Server thread/INFO]: Saving worlds
+[23:17:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:17:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:17:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:17:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:17:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:17:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:17:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
