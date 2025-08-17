@@ -1,31 +1,32 @@
-[21:38:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:38:03] [ServerMain/INFO]: Loaded 1407 recipes
-[21:38:03] [ServerMain/INFO]: Loaded 1520 advancements
-[21:38:03] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[21:38:03] [Server thread/INFO]: Loading properties
-[21:38:03] [Server thread/INFO]: Default game type: SURVIVAL
-[21:38:03] [Server thread/INFO]: Generating keypair
-[21:38:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:38:03] [Server thread/INFO]: Using epoll channel type
-[21:38:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:38:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:38:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:38:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:38:03] [Server thread/INFO]: Preparing level "world"
-[21:38:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:38:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:06] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[21:38:06] [Server thread/INFO]: Time elapsed: 2850 ms
-[21:38:06] [Server thread/INFO]: Done (3.248s)! For help, type "help"
-[21:39:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:39:16] [Server thread/INFO]: TP_iam[/127.47.212.246:34715] logged in with entity id 14 at (269.34663109991425, 62.11076431274413, -77.13250318285371)
-[21:39:16] [Server thread/INFO]: TP_iam joined the game
-[21:40:13] [Server thread/INFO]: [Not Secure] <TP_iam> -405 -256
-[21:41:46] [Server thread/INFO]: TP_iam lost connection: Timed out
-[21:41:46] [Server thread/INFO]: TP_iam left the game
-[21:42:22] [Server thread/INFO]: TP_iam[/127.47.212.246:47393] logged in with entity id 548 at (239.11767131098648, 62.11076431274413, -88.79309949663508)
-[21:42:22] [Server thread/INFO]: TP_iam joined the game
+[22:02:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:02:05] [ServerMain/INFO]: Loaded 1407 recipes
+[22:02:05] [ServerMain/INFO]: Loaded 1520 advancements
+[22:02:05] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:02:05] [Server thread/INFO]: Loading properties
+[22:02:05] [Server thread/INFO]: Default game type: SURVIVAL
+[22:02:05] [Server thread/INFO]: Generating keypair
+[22:02:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:02:05] [Server thread/INFO]: Using epoll channel type
+[22:02:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:02:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:02:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:02:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:02:05] [Server thread/INFO]: Preparing level "world"
+[22:02:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:02:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:02:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:02:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:02:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:02:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:02:08] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[22:02:09] [Server thread/INFO]: Time elapsed: 2930 ms
+[22:02:09] [Server thread/INFO]: Done (3.267s)! For help, type "help"
+[22:02:51] [Server thread/INFO]: TP_iam[/127.47.212.246:39215] logged in with entity id 14 at (-396.03786573338084, 66.0, -275.1207887943632)
+[22:02:51] [Server thread/INFO]: TP_iam joined the game
+[22:09:40] [Server thread/INFO]: DOLAR[/127.27.209.234:53797] logged in with entity id 1038 at (-396.72915982189437, 71.16610926093821, -279.2429834029502)
+[22:09:40] [Server thread/INFO]: DOLAR joined the game
+[22:09:59] [Server thread/INFO]: [Not Secure] <TP_iam> juannnnn
+[22:10:14] [Server thread/INFO]: [Not Secure] <TP_iam> traelo
+[22:10:20] [Server thread/INFO]: [Not Secure] <TP_iam> toma
+[22:11:31] [Server thread/INFO]: [Not Secure] <DOLAR> a dond elol lllevo
+[22:11:35] [Server thread/INFO]: [Not Secure] <TP_iam> aca
