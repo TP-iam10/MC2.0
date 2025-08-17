@@ -11,10 +11,14 @@
       "minecraft:old_growth_birch_forest": "2025-08-16 21:21:02 +0000",
       "minecraft:forest": "2025-08-16 21:19:57 +0000",
       "minecraft:taiga": "2025-08-16 21:29:00 +0000",
+      "minecraft:ocean": "2025-08-17 00:03:06 +0000",
+      "minecraft:deep_ocean": "2025-08-17 00:03:39 +0000",
       "minecraft:river": "2025-08-16 21:15:39 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-17 00:13:40 +0000",
       "minecraft:grove": "2025-08-16 21:34:06 +0000",
       "minecraft:birch_forest": "2025-08-16 20:54:29 +0000",
-      "minecraft:stony_shore": "2025-08-16 21:15:33 +0000"
+      "minecraft:stony_shore": "2025-08-16 21:15:33 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-17 00:10:32 +0000"
     },
     "done": false
   },
@@ -1277,57 +1281,9 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2025-08-16 23:12:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-08-16 23:09:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-08-16 23:31:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-08-16 23:17:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 23:07:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-08-16 23:31:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-08-16 23:31:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-08-16 23:12:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-08-16 23:45:32 +0000"
     },
     "done": true
   },
@@ -1349,6 +1305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-16 23:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-08-16 23:09:12 +0000"
@@ -1358,6 +1320,48 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-08-16 23:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-16 23:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-08-16 23:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-16 23:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-16 23:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-16 23:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-16 23:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-16 23:45:32 +0000"
     },
     "done": true
   },
