@@ -1908,5 +1908,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-18 22:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-18 22:50:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
