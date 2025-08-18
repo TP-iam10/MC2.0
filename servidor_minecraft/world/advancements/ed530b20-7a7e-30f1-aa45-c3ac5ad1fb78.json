@@ -1888,5 +1888,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-18 21:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-18 21:20:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
