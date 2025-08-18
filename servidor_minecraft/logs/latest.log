@@ -23,3 +23,6 @@
 [00:34:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [00:44:28] [Server thread/INFO]: TP_iam[/127.92.56.97:57175] logged in with entity id 14 at (-410.07611731873993, 71.0, -256.80287940710406)
 [00:44:28] [Server thread/INFO]: TP_iam joined the game
+[01:13:00] [Server thread/INFO]: TP_iam lost connection: Timed out
+[01:13:00] [Server thread/INFO]: TP_iam left the game
+[01:13:00] [Server thread/WARN]: handleDisconnection() called twice
