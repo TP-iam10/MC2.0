@@ -1,34 +1,26 @@
-[00:33:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:33:04] [ServerMain/INFO]: Loaded 1407 recipes
-[00:33:04] [ServerMain/INFO]: Loaded 1520 advancements
-[00:33:04] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[00:33:04] [Server thread/INFO]: Loading properties
-[00:33:04] [Server thread/INFO]: Default game type: SURVIVAL
-[00:33:04] [Server thread/INFO]: Generating keypair
-[00:33:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:33:05] [Server thread/INFO]: Using epoll channel type
-[00:33:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:33:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:33:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:33:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:33:05] [Server thread/INFO]: Preparing level "world"
-[00:33:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:33:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:33:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:33:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:33:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:33:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:33:07] [Server thread/INFO]: Time elapsed: 2449 ms
-[00:33:07] [Server thread/INFO]: Done (2.769s)! For help, type "help"
-[00:34:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:44:28] [Server thread/INFO]: TP_iam[/127.92.56.97:57175] logged in with entity id 14 at (-410.07611731873993, 71.0, -256.80287940710406)
-[00:44:28] [Server thread/INFO]: TP_iam joined the game
-[01:13:00] [Server thread/INFO]: TP_iam lost connection: Timed out
-[01:13:00] [Server thread/INFO]: TP_iam left the game
-[01:13:00] [Server thread/WARN]: handleDisconnection() called twice
-[01:13:49] [Server thread/INFO]: TP_iam[/127.92.56.97:48061] logged in with entity id 4136 at (-419.69999998807907, 70.0, -238.31634414687446)
-[01:13:49] [Server thread/INFO]: TP_iam joined the game
-[01:18:49] [Server thread/INFO]: TP_iam lost connection: Timed out
-[01:18:49] [Server thread/INFO]: TP_iam left the game
-[01:19:37] [Server thread/INFO]: TP_iam[/127.92.56.97:44277] logged in with entity id 4947 at (-418.3808388022071, 71.0, -238.3638156808331)
-[01:19:37] [Server thread/INFO]: TP_iam joined the game
+[02:05:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:05:48] [ServerMain/INFO]: Loaded 1407 recipes
+[02:05:48] [ServerMain/INFO]: Loaded 1520 advancements
+[02:05:48] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:05:48] [Server thread/INFO]: Loading properties
+[02:05:48] [Server thread/INFO]: Default game type: SURVIVAL
+[02:05:48] [Server thread/INFO]: Generating keypair
+[02:05:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:05:49] [Server thread/INFO]: Using epoll channel type
+[02:05:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:05:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:05:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:05:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:05:49] [Server thread/INFO]: Preparing level "world"
+[02:05:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:05:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:05:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:05:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:05:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:05:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:05:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:05:52] [Server thread/INFO]: Time elapsed: 2654 ms
+[02:05:52] [Server thread/INFO]: Done (3.048s)! For help, type "help"
+[02:06:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:08:50] [Server thread/INFO]: TP_iam[/127.92.56.97:34333] logged in with entity id 14 at (-415.879818355401, 71.0, -244.890638251536)
+[02:08:50] [Server thread/INFO]: TP_iam joined the game
