@@ -28,3 +28,7 @@
 [20:54:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [21:16:47] [Server thread/INFO]: TP_iam[/127.225.88.189:34829] logged in with entity id 3205 at (-409.2571864148525, 71.0, -241.30000001192093)
 [21:16:47] [Server thread/INFO]: TP_iam joined the game
+[22:36:02] [Server thread/INFO]: TP_iam lost connection: Disconnected
+[22:36:02] [Server thread/INFO]: TP_iam left the game
+[22:36:07] [Server thread/INFO]: TP_iam[/127.225.88.189:38343] logged in with entity id 16604 at (-424.5941679557945, 70.9375, -271.7145556897112)
+[22:36:07] [Server thread/INFO]: TP_iam joined the game
