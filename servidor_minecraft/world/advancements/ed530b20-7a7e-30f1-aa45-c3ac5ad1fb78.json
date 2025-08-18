@@ -458,6 +458,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-08-16 21:42:32 +0000",
+      "golden_apple": "2025-08-18 05:08:22 +0000",
       "cooked_chicken": "2025-08-16 21:26:31 +0000",
       "cooked_mutton": "2025-08-16 23:14:00 +0000",
       "mushroom_stew": "2025-08-17 22:41:10 +0000",
@@ -1870,6 +1871,18 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-18 04:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2025-08-18 05:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2025-08-18 05:00:04 +0000"
     },
     "done": true
   },
