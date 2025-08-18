@@ -26,3 +26,9 @@
 [01:13:00] [Server thread/INFO]: TP_iam lost connection: Timed out
 [01:13:00] [Server thread/INFO]: TP_iam left the game
 [01:13:00] [Server thread/WARN]: handleDisconnection() called twice
+[01:13:49] [Server thread/INFO]: TP_iam[/127.92.56.97:48061] logged in with entity id 4136 at (-419.69999998807907, 70.0, -238.31634414687446)
+[01:13:49] [Server thread/INFO]: TP_iam joined the game
+[01:18:49] [Server thread/INFO]: TP_iam lost connection: Timed out
+[01:18:49] [Server thread/INFO]: TP_iam left the game
+[01:19:37] [Server thread/INFO]: TP_iam[/127.92.56.97:44277] logged in with entity id 4947 at (-418.3808388022071, 71.0, -238.3638156808331)
+[01:19:37] [Server thread/INFO]: TP_iam joined the game
