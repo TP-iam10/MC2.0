@@ -1,30 +1,27 @@
-[02:32:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:32:32] [ServerMain/INFO]: Loaded 1407 recipes
-[02:32:32] [ServerMain/INFO]: Loaded 1520 advancements
-[02:32:32] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:32:32] [Server thread/INFO]: Loading properties
-[02:32:32] [Server thread/INFO]: Default game type: SURVIVAL
-[02:32:32] [Server thread/INFO]: Generating keypair
-[02:32:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:32:32] [Server thread/INFO]: Using epoll channel type
-[02:32:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:32:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:32:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:32:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:32:32] [Server thread/INFO]: Preparing level "world"
-[02:32:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:32:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:32:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:32:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:32:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:32:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:32:35] [Server thread/INFO]: Time elapsed: 2438 ms
-[02:32:35] [Server thread/INFO]: Done (2.775s)! For help, type "help"
-[02:32:58] [Server thread/INFO]: TP_iam[/127.92.56.97:39003] logged in with entity id 14 at (-416.94130088401056, 70.5875, -242.74410940646638)
-[02:32:58] [Server thread/INFO]: TP_iam joined the game
-[03:10:44] [Server thread/INFO]: Villager cuf['Farmer'/55, l='ServerLevel[world]', x=-420.10, y=65.00, z=-277.67] died, message: 'Farmer was slain by Zombie'
-[03:22:00] [Server thread/WARN]: TP_iam moved too quickly! 4.19583006078841,1.1661092609382138,-9.362590575376714
-[03:22:04] [Server thread/WARN]: TP_iam was kicked for floating too long!
-[03:22:04] [Server thread/INFO]: TP_iam lost connection: Flying is not enabled on this server
-[03:22:04] [Server thread/INFO]: TP_iam left the game
-[03:22:05] [Server thread/WARN]: handleDisconnection() called twice
+[21:16:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:16:45] [ServerMain/INFO]: Loaded 1407 recipes
+[21:16:45] [ServerMain/INFO]: Loaded 1520 advancements
+[21:16:45] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:16:45] [Server thread/INFO]: Loading properties
+[21:16:45] [Server thread/INFO]: Default game type: SURVIVAL
+[21:16:45] [Server thread/INFO]: Generating keypair
+[21:16:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:16:45] [Server thread/INFO]: Using epoll channel type
+[21:16:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:16:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:16:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:16:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:16:46] [Server thread/INFO]: Preparing level "world"
+[21:16:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:16:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:16:48] [Server thread/INFO]: Time elapsed: 2447 ms
+[21:16:48] [Server thread/INFO]: Done (2.811s)! For help, type "help"
+[21:17:10] [Server thread/INFO]: sanWUU[/127.225.88.189:50405] logged in with entity id 14 at (-534.5, 86.0, 146.5)
+[21:17:10] [Server thread/INFO]: sanWUU joined the game
+[21:17:20] [Server thread/INFO]: TP_iam[/127.225.88.189:50375] logged in with entity id 185 at (-405.28169542690694, 71.0, -258.97579556319323)
+[21:17:20] [Server thread/INFO]: TP_iam joined the game
+[21:25:18] [Server thread/INFO]: sanWUU has made the advancement [Stone Age]
