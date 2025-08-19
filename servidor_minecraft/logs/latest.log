@@ -1,13 +1,26 @@
-[00:09:32] [Server thread/INFO]: TP_iam lost connection: Disconnected
-[00:09:32] [Server thread/INFO]: TP_iam left the game
-[00:09:47] [Server thread/INFO]: Stopping the server
-[00:09:47] [Server thread/INFO]: Stopping server
-[00:09:47] [Server thread/INFO]: Saving players
-[00:09:47] [Server thread/INFO]: Saving worlds
-[00:09:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:09:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:09:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:09:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:09:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:09:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:09:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:51:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:51:54] [ServerMain/INFO]: Loaded 1407 recipes
+[01:51:54] [ServerMain/INFO]: Loaded 1520 advancements
+[01:51:54] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[01:51:54] [Server thread/INFO]: Loading properties
+[01:51:54] [Server thread/INFO]: Default game type: SURVIVAL
+[01:51:54] [Server thread/INFO]: Generating keypair
+[01:51:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:51:54] [Server thread/INFO]: Using epoll channel type
+[01:51:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:51:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:51:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:51:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:51:54] [Server thread/INFO]: Preparing level "world"
+[01:51:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:51:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:51:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:51:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:51:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:51:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:51:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:51:57] [Server thread/INFO]: Time elapsed: 2788 ms
+[01:51:57] [Server thread/INFO]: Done (3.195s)! For help, type "help"
+[01:52:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:54:26] [Server thread/INFO]: TP_iam[/127.92.56.97:57049] logged in with entity id 14 at (-403.5, 71.0, -257.5)
+[01:54:26] [Server thread/INFO]: TP_iam joined the game
