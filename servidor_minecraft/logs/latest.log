@@ -29,3 +29,11 @@
 [02:52:24] [Server thread/WARN]: TP_iam moved too quickly! -8.763700904111602,-5.0,-0.11504654725240471
 [02:54:09] [Server thread/INFO]: TP_iam has made the advancement [The Cutest Predator]
 [02:54:17] [Server thread/INFO]: DOLAR has made the advancement [The Cutest Predator]
+[03:01:56] [Server thread/WARN]: TP_iam moved too quickly! 1.5082996088667642,0.0,10.244029323983625
+[03:07:16] [Server thread/INFO]: Seed: [4454123420423509812]
+[03:07:32] [Server thread/INFO]: [Not Secure] <TP_iam> 4454123420423509812
+[03:08:07] [Server thread/INFO]: [Not Secure] <TP_iam> 4454123420423509812
+[03:10:39] [Server thread/WARN]: TP_iam moved too quickly! -6.95913372256922,-1.8787031594608052,-6.982942348660515
+[03:11:16] [Server thread/INFO]: TP_iam lost connection: Timed out
+[03:11:16] [Server thread/INFO]: TP_iam left the game
+[03:11:16] [Server thread/WARN]: handleDisconnection() called twice
