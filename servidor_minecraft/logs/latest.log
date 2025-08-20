@@ -57,3 +57,18 @@
 [05:09:21] [Server thread/INFO]: Villager cuf['Villager'/13152, l='ServerLevel[world]', x=-427.69, y=78.00, z=-239.47] died, message: 'Villager was slain by TP_iam'
 [05:14:54] [Server thread/INFO]: TP_iam was slain by Iron Golem
 [05:16:17] [Server thread/INFO]: Villager cuf['Villager'/13146, l='ServerLevel[world]', x=-416.30, y=71.00, z=-276.70] died, message: 'Villager was slain by TP_iam'
+[05:20:51] [Server thread/INFO]: DOLAR lost connection: Disconnected
+[05:20:51] [Server thread/INFO]: DOLAR left the game
+[05:21:21] [Server thread/INFO]: TP_iam lost connection: Disconnected
+[05:21:21] [Server thread/INFO]: TP_iam left the game
+[05:21:40] [Server thread/INFO]: Stopping the server
+[05:21:40] [Server thread/INFO]: Stopping server
+[05:21:40] [Server thread/INFO]: Saving players
+[05:21:40] [Server thread/INFO]: Saving worlds
+[05:21:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:21:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:21:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:21:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:21:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:21:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:21:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
