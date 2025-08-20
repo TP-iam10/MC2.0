@@ -30,3 +30,7 @@
 [03:40:13] [Server thread/INFO]: [Not Secure] <DOLAR> intenta
 [03:40:33] [Server thread/INFO]: [Not Secure] <TP_iam> me sale lo mismo
 [03:51:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-389, y=72, z=-266} jb{x=-390, y=71, z=-265}
+[03:57:27] [Server thread/INFO]: TP_iam has made the advancement [Voluntary Exile]
+[04:01:24] [Server thread/INFO]: DOLAR has made the advancement [Suit Up]
+[04:03:32] [Server thread/INFO]: Villager cuf['Fisherman'/192, l='ServerLevel[world]', x=-410.38, y=71.00, z=-245.72] died, message: 'Fisherman was slain by TP_iam'
+[04:04:30] [Server thread/INFO]: [Not Secure] <DOLAR> -432 -40 -408
