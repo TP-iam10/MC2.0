@@ -41,3 +41,6 @@
 [04:31:12] [Server thread/INFO]: TP_iam has made the advancement [We Need to Go Deeper]
 [04:31:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3243ms or 64 ticks behind
 [04:31:13] [Server thread/INFO]: DOLAR has made the advancement [We Need to Go Deeper]
+[04:49:32] [Server thread/INFO]: DOLAR has made the advancement [The Parrots and the Bats]
+[04:56:02] [Server thread/INFO]: Villager cuf['Villager'/13160, l='ServerLevel[world]', x=-421.46, y=65.00, z=-274.26] died, message: 'Villager was slain by TP_iam'
+[04:56:10] [Server thread/INFO]: Villager cuf['Villager'/13147, l='ServerLevel[world]', x=-417.31, y=65.00, z=-273.81] died, message: 'Villager was slain by TP_iam'
