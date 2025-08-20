@@ -54,3 +54,6 @@
 [04:56:56] [Server thread/INFO]: Villager cuf['Villager'/13153, l='ServerLevel[world]', x=-421.48, y=65.00, z=-275.40] died, message: 'Villager was slain by TP_iam'
 [04:58:11] [Server thread/INFO]: Villager cuf['Villager'/13149, l='ServerLevel[world]', x=-418.56, y=65.00, z=-274.37] died, message: 'Villager was slain by TP_iam'
 [04:58:14] [Server thread/INFO]: Villager cuf['Villager'/13155, l='ServerLevel[world]', x=-421.36, y=65.00, z=-275.67] died, message: 'Villager was slain by TP_iam'
+[05:09:21] [Server thread/INFO]: Villager cuf['Villager'/13152, l='ServerLevel[world]', x=-427.69, y=78.00, z=-239.47] died, message: 'Villager was slain by TP_iam'
+[05:14:54] [Server thread/INFO]: TP_iam was slain by Iron Golem
+[05:16:17] [Server thread/INFO]: Villager cuf['Villager'/13146, l='ServerLevel[world]', x=-416.30, y=71.00, z=-276.70] died, message: 'Villager was slain by TP_iam'
