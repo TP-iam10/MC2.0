@@ -1,60 +1,51 @@
-[22:08:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:08:57] [ServerMain/INFO]: Loaded 1407 recipes
-[22:08:57] [ServerMain/INFO]: Loaded 1520 advancements
-[22:08:57] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[22:08:57] [Server thread/INFO]: Loading properties
-[22:08:57] [Server thread/INFO]: Default game type: SURVIVAL
-[22:08:57] [Server thread/INFO]: Generating keypair
-[22:08:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:08:57] [Server thread/INFO]: Using epoll channel type
-[22:08:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:08:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:08:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:08:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:08:57] [Server thread/INFO]: Preparing level "world"
-[22:08:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:09:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:09:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:09:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:09:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:09:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:09:00] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[22:09:01] [Server thread/INFO]: Time elapsed: 2872 ms
-[22:09:01] [Server thread/INFO]: Done (3.306s)! For help, type "help"
-[22:09:20] [Server thread/INFO]: TP_iam[/127.130.153.89:48567] logged in with entity id 7 at (-384.26547866704993, 70.0, -269.30000001192093)
-[22:09:20] [Server thread/INFO]: TP_iam joined the game
-[22:13:43] [Server thread/INFO]: Lupraxwin22[/127.3.173.92:47429] logged in with entity id 856 at (-524.5, 86.0, 145.5)
-[22:13:43] [Server thread/INFO]: Lupraxwin22 joined the game
-[22:14:02] [Server thread/INFO]: [Not Secure] <Lupraxwin22> hola
-[22:17:06] [Server thread/INFO]: [Not Secure] <Lupraxwin22> buenas
-[22:18:27] [Server thread/INFO]: Lupraxwin22 has made the advancement [Stone Age]
-[22:19:53] [Server thread/INFO]: [Not Secure] <Lupraxwin22> mira
-[22:19:59] [Server thread/INFO]: [Not Secure] <Lupraxwin22> te sirve ?
-[22:20:23] [Server thread/INFO]: Lupraxwin22 has made the advancement [Getting an Upgrade]
-[22:22:41] [Server thread/INFO]: Lupraxwin22 has made the advancement [Sweet Dreams]
-[22:23:54] [Server thread/WARN]: TP_iam was kicked for floating too long!
-[22:23:54] [Server thread/INFO]: TP_iam lost connection: Flying is not enabled on this server
-[22:23:54] [Server thread/INFO]: TP_iam left the game
-[22:23:54] [Server thread/WARN]: handleDisconnection() called twice
-[22:27:50] [Server thread/INFO]: [Not Secure] <Lupraxwin22> messi
-[22:28:22] [Server thread/INFO]: TP_iam[/127.130.153.89:44311] logged in with entity id 4005 at (-405.9337306410885, 72.25220334025373, -252.3163376291539)
-[22:28:22] [Server thread/INFO]: TP_iam joined the game
-[22:31:00] [Server thread/INFO]: [Not Secure] <Lupraxwin22> que hacemos
-[22:31:05] [Server thread/INFO]: [Not Secure] <Lupraxwin22> quiero minar
-[22:31:09] [Server thread/INFO]: [Not Secure] <TP_iam> espera
-[22:31:16] [Server thread/INFO]: [Not Secure] <Lupraxwin22> okey
-[22:31:26] [Server thread/INFO]: [Not Secure] <Lupraxwin22> voy a recolectar madera afuera
-[22:31:31] [Server thread/INFO]: [Not Secure] <Lupraxwin22> vuelvo
-[22:31:51] [Server thread/INFO]: [Not Secure] <TP_iam> tienes pico
-[22:31:54] [Server thread/INFO]: [Not Secure] <Lupraxwin22> si
-[22:31:54] [Server thread/INFO]: [Not Secure] <TP_iam> ?
-[22:31:59] [Server thread/INFO]: [Not Secure] <TP_iam> vale
-[22:32:04] [Server thread/INFO]: [Not Secure] <TP_iam> pico de que
-[22:34:39] [Server thread/INFO]: [Not Secure] <TP_iam> tomaaa
-[22:34:41] [Server thread/INFO]: [Not Secure] <TP_iam> ven
-[22:38:17] [Server thread/INFO]: [Not Secure] <Lupraxwin22> bro
-[22:38:32] [Server thread/INFO]: [Not Secure] <TP_iam> que paso
-[22:38:42] [Server thread/INFO]: [Not Secure] <Lupraxwin22> se puede hacer una mapa de la base
-[22:38:45] [Server thread/INFO]: [Not Secure] <Lupraxwin22> ?
-[22:38:49] [Server thread/INFO]: [Not Secure] <TP_iam> si pero
-[22:38:55] [Server thread/INFO]: [Not Secure] <TP_iam> no servira de nada
+[23:03:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:03:57] [ServerMain/INFO]: Loaded 1407 recipes
+[23:03:57] [ServerMain/INFO]: Loaded 1520 advancements
+[23:03:57] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[23:03:57] [Server thread/INFO]: Loading properties
+[23:03:57] [Server thread/INFO]: Default game type: SURVIVAL
+[23:03:57] [Server thread/INFO]: Generating keypair
+[23:03:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:03:58] [Server thread/INFO]: Using epoll channel type
+[23:03:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:03:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:03:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:03:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:03:58] [Server thread/INFO]: Preparing level "world"
+[23:03:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:04:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:00] [Server thread/INFO]: Time elapsed: 2481 ms
+[23:04:00] [Server thread/INFO]: Done (2.884s)! For help, type "help"
+[23:04:36] [Server thread/INFO]: TP_iam[/127.130.153.89:42317] logged in with entity id 6 at (-407.6434880289562, 71.0, -241.30000001192093)
+[23:04:36] [Server thread/INFO]: TP_iam joined the game
+[23:05:25] [Server thread/INFO]: Lupraxwin22[/127.3.173.92:53447] logged in with entity id 290 at (-423.30000001192093, 66.0, -272.97739559090877)
+[23:05:25] [Server thread/INFO]: Lupraxwin22 joined the game
+[23:05:29] [Server thread/INFO]: [Not Secure] <Lupraxwin22> ya
+[23:05:32] [Server thread/INFO]: [Not Secure] <Lupraxwin22> salgo ?
+[23:05:34] [Server thread/INFO]: [Not Secure] <TP_iam> espera
+[23:05:40] [Server thread/INFO]: [Not Secure] <Lupraxwin22> es de noche ?
+[23:05:45] [Server thread/INFO]: [Not Secure] <TP_iam> no
+[23:05:58] [Server thread/INFO]: [Not Secure] <Lupraxwin22> espero
+[23:06:46] [Server thread/INFO]: [Not Secure] <TP_iam> no salgas ya casi termino
+[23:07:37] [Server thread/INFO]: [Not Secure] <TP_iam> sube para dormir
+[23:08:25] [Server thread/INFO]: [Not Secure] <TP_iam> jalaste hierro
+[23:08:28] [Server thread/INFO]: [Not Secure] <Lupraxwin22> no
+[23:08:28] [Server thread/INFO]: [Not Secure] <TP_iam> ?
+[23:08:32] [Server thread/INFO]: [Not Secure] <TP_iam> vamos
+[23:09:07] [Server thread/INFO]: [Not Secure] <Lupraxwin22> ahora
+[23:09:09] [Server thread/INFO]: [Not Secure] <TP_iam> un momento que me encargo de la comida
+[23:09:15] [Server thread/INFO]: [Not Secure] <Lupraxwin22> ya
+[23:09:23] [Server thread/INFO]: [Not Secure] <Lupraxwin22> voy a un lugar y vuelvo
+[23:09:28] [Server thread/INFO]: [Not Secure] <TP_iam> esperame
+[23:09:33] [Server thread/INFO]: [Not Secure] <TP_iam> es peligroso
+[23:09:34] [Server thread/INFO]: [Not Secure] <Lupraxwin22> okey
+[23:09:39] [Server thread/INFO]: [Not Secure] <TP_iam> iremos juntos
+[23:09:45] [Server thread/INFO]: [Not Secure] <Lupraxwin22> ya
+[23:10:30] [Server thread/INFO]: Lupraxwin22 has made the advancement [Monster Hunter]
+[23:10:50] [Server thread/INFO]: [Not Secure] <TP_iam> donde estas
+[23:10:55] [Server thread/INFO]: [Not Secure] <Lupraxwin22> aca
+[23:10:58] [Server thread/INFO]: [Not Secure] <Lupraxwin22> en la casa
