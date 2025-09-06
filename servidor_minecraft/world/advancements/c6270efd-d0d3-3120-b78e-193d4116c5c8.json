@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-09-06 17:56:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-16 22:49:41 +0000",
       "minecraft:forest": "2025-08-16 22:48:18 +0000",
       "minecraft:taiga": "2025-08-16 22:51:59 +0000",
