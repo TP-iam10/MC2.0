@@ -458,6 +458,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-06 19:47:58 +0000",
       "bread": "2025-08-16 21:42:32 +0000",
       "golden_apple": "2025-08-18 05:08:22 +0000",
       "rotten_flesh": "2025-08-18 06:30:38 +0000",
@@ -1097,9 +1098,11 @@
       "minecraft:pillager": "2025-08-20 03:57:03 +0000",
       "minecraft:cave_spider": "2025-09-06 18:06:29 +0000",
       "minecraft:skeleton": "2025-08-16 22:33:35 +0000",
+      "minecraft:piglin": "2025-09-06 19:44:55 +0000",
       "minecraft:breeze": "2025-09-06 18:18:46 +0000",
       "minecraft:stray": "2025-09-06 18:10:19 +0000",
       "minecraft:spider": "2025-08-16 22:34:01 +0000",
+      "minecraft:piglin_brute": "2025-09-06 19:49:42 +0000",
       "minecraft:zombie": "2025-08-16 22:36:14 +0000",
       "minecraft:creeper": "2025-08-17 22:25:45 +0000",
       "minecraft:zombie_villager": "2025-08-19 21:59:01 +0000",
@@ -2538,6 +2541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-06 19:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_tuff_wall": {
     "criteria": {
       "has_polished_tuff": "2025-09-06 18:04:28 +0000"
@@ -2553,6 +2562,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-09-06 18:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-06 19:44:26 +0000"
     },
     "done": true
   },
@@ -2577,6 +2592,18 @@
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
       "minecraft_trials_edition": "2025-09-06 18:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-06 19:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-09-06 19:46:59 +0000"
     },
     "done": true
   },
@@ -2670,15 +2697,39 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-09-06 19:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-09-06 18:14:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-06 19:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-06 19:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-09-06 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-06 19:46:50 +0000"
     },
     "done": true
   },
@@ -2700,6 +2751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-09-06 19:44:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_stairs": {
     "criteria": {
       "has_polished_tuff": "2025-09-06 18:04:28 +0000"
@@ -2709,6 +2766,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
     "criteria": {
       "has_waxed_oxidized_copper": "2025-09-06 18:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-06 19:46:50 +0000"
     },
     "done": true
   },
@@ -2727,6 +2790,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-09-06 18:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-09-06 19:43:41 +0000"
     },
     "done": true
   },
@@ -2802,6 +2871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-06 19:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-09-06 18:04:28 +0000"
@@ -2841,6 +2916,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-09-06 18:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-06 19:44:26 +0000"
     },
     "done": true
   },
