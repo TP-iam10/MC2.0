@@ -265,6 +265,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-09-02 23:16:51 +0000",
+      "cooked_mutton": "2025-09-02 23:10:04 +0000",
       "cooked_beef": "2025-09-02 22:49:46 +0000",
       "melon_slice": "2025-09-02 22:19:29 +0000"
     },
@@ -561,6 +563,36 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-09-02 22:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-02 23:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-09-02 23:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-09-02 23:10:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-09-02 23:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-09-02 23:10:30 +0000"
     },
     "done": true
   },
