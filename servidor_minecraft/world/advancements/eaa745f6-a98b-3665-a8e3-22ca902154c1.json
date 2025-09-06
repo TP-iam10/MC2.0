@@ -456,6 +456,7 @@
       "chicken": "2025-09-06 19:49:48 +0000",
       "golden_apple": "2025-09-06 18:48:25 +0000",
       "bread": "2025-09-06 18:23:53 +0000",
+      "beef": "2025-09-06 19:55:52 +0000",
       "carrot": "2025-09-06 19:10:05 +0000"
     },
     "done": false
@@ -1490,9 +1491,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-06 19:57:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-09-06 19:45:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-09-06 19:55:49 +0000"
     },
     "done": true
   },
@@ -1559,6 +1572,18 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-09-06 19:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-09-06 19:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-09-06 19:55:49 +0000"
     },
     "done": true
   },
