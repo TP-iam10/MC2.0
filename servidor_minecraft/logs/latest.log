@@ -471,3 +471,28 @@
 [19:30:39] [Server thread/INFO]: TP_iam has made the advancement [Ol' Betsy]
 [19:32:56] [Server thread/INFO]: lDeltah has made the advancement [We Need to Go Deeper]
 [19:33:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-76, y=113, z=-41}
+[19:35:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-76, y=113, z=-41} jb{x=-93, y=114, z=-32}
+[19:35:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-93, y=114, z=-32} jb{x=-92, y=114, z=-32}
+[19:35:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-110, y=112, z=-59} jb{x=-111, y=112, z=-59}
+[19:35:49] [Server thread/INFO]: [Not Secure] <DOLAR> -224 ~ 64
+[19:35:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-122, y=111, z=-59} jb{x=-125, y=112, z=-59}
+[19:39:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=111, z=-79} jb{x=-224, y=110, z=-78}
+[19:39:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=111, z=-79} jb{x=-224, y=110, z=-78}
+[19:40:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-225, y=111, z=-68} jb{x=-226, y=111, z=-25}
+[19:40:16] [Server thread/INFO]: lDeltah lost connection: Timed out
+[19:40:16] [Server thread/INFO]: lDeltah left the game
+[19:41:05] [Server thread/INFO]: lDeltah[/127.106.217.11:55183] logged in with entity id 50007 at (-224.47025176210636, 110.0, -22.5713748816214)
+[19:41:05] [Server thread/INFO]: lDeltah joined the game
+[19:41:32] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-225, y=111, z=32} jb{x=-225, y=111, z=38}
+[19:41:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-225, y=111, z=38} jb{x=-225, y=111, z=43}
+[19:42:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-225, y=111, z=43} jb{x=-224, y=108, z=70}
+[19:42:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-225, y=111, z=43} jb{x=-224, y=109, z=70}
+[19:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-224, y=109, z=70} jb{x=-224, y=108, z=71}
+[19:42:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-225, y=109, z=69} jb{x=-228, y=109, z=66}
+[19:42:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-228, y=109, z=66} jb{x=-230, y=109, z=66}
+[19:42:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-230, y=109, z=66} jb{x=-233, y=110, z=66}
+[19:43:09] [Server thread/INFO]: [Not Secure] <TP_iam> en el nether
+[19:43:40] [Server thread/INFO]: lDeltah has made the advancement [Those Were the Days]
+[19:43:41] [Server thread/INFO]: TP_iam has made the advancement [Those Were the Days]
+[19:43:49] [Server thread/INFO]: DOLAR has made the advancement [Those Were the Days]
+[19:44:32] [Server thread/INFO]: Lupraxwin22 was slain by Zombie
