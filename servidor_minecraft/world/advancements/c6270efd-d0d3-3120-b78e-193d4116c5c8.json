@@ -2723,6 +2723,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-09-07 23:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/magenta_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-07 22:38:21 +0000"
@@ -2741,6 +2747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-09-07 23:11:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/yellow_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-07 22:38:21 +0000"
@@ -2750,6 +2762,12 @@
   "minecraft:recipes/combat/pink_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-07 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-09-07 23:14:06 +0000"
     },
     "done": true
   },
