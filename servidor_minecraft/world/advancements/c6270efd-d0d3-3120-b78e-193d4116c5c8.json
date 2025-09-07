@@ -8,15 +8,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-09-06 17:56:54 +0000",
-      "minecraft:old_growth_birch_forest": "2025-08-16 22:49:41 +0000",
       "minecraft:forest": "2025-08-16 22:48:18 +0000",
       "minecraft:taiga": "2025-08-16 22:51:59 +0000",
-      "minecraft:deep_dark": "2025-08-20 03:01:02 +0000",
       "minecraft:river": "2025-08-16 22:47:58 +0000",
-      "minecraft:grove": "2025-08-16 22:54:23 +0000",
-      "minecraft:birch_forest": "2025-08-16 22:45:44 +0000",
       "minecraft:stony_shore": "2025-08-16 22:47:11 +0000",
-      "minecraft:lush_caves": "2025-08-20 02:54:15 +0000"
+      "minecraft:snowy_plains": "2025-09-07 23:18:19 +0000",
+      "minecraft:lush_caves": "2025-08-20 02:54:15 +0000",
+      "minecraft:dripstone_caves": "2025-09-07 23:30:24 +0000",
+      "minecraft:snowy_taiga": "2025-09-07 23:15:43 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-16 22:49:41 +0000",
+      "minecraft:frozen_river": "2025-09-07 23:18:17 +0000",
+      "minecraft:deep_dark": "2025-08-20 03:01:02 +0000",
+      "minecraft:grove": "2025-08-16 22:54:23 +0000",
+      "minecraft:meadow": "2025-09-07 23:34:19 +0000",
+      "minecraft:birch_forest": "2025-08-16 22:45:44 +0000"
     },
     "done": false
   },
@@ -303,6 +308,7 @@
       "golden_apple": "2025-09-06 20:01:51 +0000",
       "cooked_chicken": "2025-09-06 18:28:29 +0000",
       "cooked_mutton": "2025-08-16 22:51:31 +0000",
+      "rabbit": "2025-09-07 23:29:53 +0000",
       "baked_potato": "2025-09-06 18:36:54 +0000",
       "melon_slice": "2025-08-16 23:42:29 +0000",
       "cooked_salmon": "2025-08-16 23:31:46 +0000",
@@ -2741,6 +2747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-07 23:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/black_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-07 22:38:21 +0000"
@@ -2753,9 +2765,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-09-07 23:29:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/yellow_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-07 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-07 23:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-07 23:23:11 +0000"
     },
     "done": true
   },
@@ -2771,9 +2801,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-07 23:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/orange_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-07 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-07 23:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-07 23:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-07 23:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-09-07 23:29:49 +0000"
     },
     "done": true
   },
@@ -2789,9 +2849,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-09-07 23:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-09-07 23:29:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/cyan_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-07 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-09-07 23:27:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-09-07 23:29:49 +0000"
     },
     "done": true
   },
@@ -2804,6 +2888,12 @@
   "minecraft:recipes/combat/brown_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-07 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-09-07 23:27:24 +0000"
     },
     "done": true
   },
@@ -2840,6 +2930,12 @@
   "minecraft:recipes/combat/blue_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-07 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-07 23:23:11 +0000"
     },
     "done": true
   },

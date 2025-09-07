@@ -29,3 +29,16 @@
 [22:40:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-608, y=90, z=187} jb{x=-607, y=90, z=188}
 [22:51:34] [Server thread/WARN]: TP_iam moved wrongly!
 [23:14:06] [Server thread/INFO]: DOLAR has made the advancement [Who is Cutting Onions?]
+[23:15:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3314ms or 66 ticks behind
+[23:17:48] [Server thread/INFO]: [Not Secure] <TP_iam> x-406 y70 z-258
+[23:27:05] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [-204, 11], pos: jb{x=-3264, y=7, z=184}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[23:27:05] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [-204, 11], pos: jb{x=-3264, y=8, z=184}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[23:27:05] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [-204, 11], pos: jb{x=-3264, y=8, z=185}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[23:27:05] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [-204, 11], pos: jb{x=-3264, y=9, z=185}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[23:27:05] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [-204, 11], pos: jb{x=-3264, y=8, z=186}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[23:27:05] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [-204, 11], pos: jb{x=-3264, y=9, z=186}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[23:27:05] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [-204, 11], pos: jb{x=-3264, y=8, z=187}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[23:27:05] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [-204, 11], pos: jb{x=-3264, y=9, z=187}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[23:27:05] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [-204, 11], pos: jb{x=-3264, y=8, z=188}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[23:27:05] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [-204, 11], pos: jb{x=-3264, y=9, z=188}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[23:27:05] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [-204, 11], pos: jb{x=-3263, y=8, z=188}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
