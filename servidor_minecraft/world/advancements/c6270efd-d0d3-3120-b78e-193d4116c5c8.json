@@ -21,7 +21,8 @@
       "minecraft:deep_dark": "2025-08-20 03:01:02 +0000",
       "minecraft:grove": "2025-08-16 22:54:23 +0000",
       "minecraft:meadow": "2025-09-07 23:34:19 +0000",
-      "minecraft:birch_forest": "2025-08-16 22:45:44 +0000"
+      "minecraft:birch_forest": "2025-08-16 22:45:44 +0000",
+      "minecraft:plains": "2025-09-07 23:34:39 +0000"
     },
     "done": false
   },
@@ -2771,6 +2772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-07 23:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/yellow_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-07 22:38:21 +0000"
@@ -2867,6 +2874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-09-07 23:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_poppy": {
     "criteria": {
       "has_poppy": "2025-09-07 23:27:24 +0000"
@@ -2882,6 +2895,12 @@
   "minecraft:recipes/combat/red_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-07 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-07 23:39:00 +0000"
     },
     "done": true
   },
@@ -2906,6 +2925,18 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-09-07 22:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-07 23:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-09-07 23:34:52 +0000"
     },
     "done": true
   },
