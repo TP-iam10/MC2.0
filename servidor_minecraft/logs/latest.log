@@ -1,41 +1,30 @@
-[01:26:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:26:04] [ServerMain/INFO]: Loaded 1407 recipes
-[01:26:04] [ServerMain/INFO]: Loaded 1520 advancements
-[01:26:04] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:26:04] [Server thread/INFO]: Loading properties
-[01:26:04] [Server thread/INFO]: Default game type: SURVIVAL
-[01:26:04] [Server thread/INFO]: Generating keypair
-[01:26:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:26:04] [Server thread/INFO]: Using epoll channel type
-[01:26:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:26:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:26:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:26:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:26:04] [Server thread/INFO]: Preparing level "world"
-[01:26:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:26:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:26:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:26:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:26:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:26:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:26:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:26:07] [Server thread/INFO]: Time elapsed: 2784 ms
-[01:26:07] [Server thread/INFO]: Done (3.057s)! For help, type "help"
-[01:26:15] [Server thread/INFO]: DOLAR[/127.165.88.142:49871] logged in with entity id 8 at (-417.6240231487057, 71.0, -256.09172011820783)
-[01:26:15] [Server thread/INFO]: DOLAR joined the game
-[01:26:15] [Server thread/INFO]: TP_iam[/127.35.72.225:35083] logged in with entity id 7 at (-404.2628012809495, 71.0, -263.58603605435763)
-[01:26:15] [Server thread/INFO]: TP_iam joined the game
-[01:42:41] [Server thread/WARN]: TP_iam moved too quickly! -0.11770526732948383,1.1661092609382138,9.981668361939853
-[01:42:45] [Server thread/WARN]: TP_iam was kicked for floating too long!
-[01:42:45] [Server thread/INFO]: TP_iam lost connection: Flying is not enabled on this server
-[01:42:45] [Server thread/INFO]: TP_iam left the game
-[01:42:45] [Server thread/WARN]: handleDisconnection() called twice
-[01:43:02] [Server thread/INFO]: TP_iam[/127.35.72.225:34597] logged in with entity id 5909 at (-410.1142333858064, 72.00133597911214, -256.4317914784522)
-[01:43:02] [Server thread/INFO]: TP_iam joined the game
-[01:51:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-392, y=95, z=-391} jb{x=-391, y=95, z=-392}
-[01:51:32] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-390, y=95, z=-390} jb{x=-390, y=93, z=-390}
-[02:00:11] [Server thread/WARN]: DOLAR was kicked for floating too long!
-[02:00:11] [Server thread/INFO]: DOLAR lost connection: Flying is not enabled on this server
-[02:00:11] [Server thread/INFO]: DOLAR left the game
-[02:00:30] [Server thread/INFO]: DOLAR[/127.165.88.142:40225] logged in with entity id 9853 at (-303.1386829251528, 74.06397461059889, -283.3731984179057)
-[02:00:30] [Server thread/INFO]: DOLAR joined the game
+[02:47:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:47:52] [ServerMain/INFO]: Loaded 1407 recipes
+[02:47:52] [ServerMain/INFO]: Loaded 1520 advancements
+[02:47:52] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:47:52] [Server thread/INFO]: Loading properties
+[02:47:52] [Server thread/INFO]: Default game type: SURVIVAL
+[02:47:52] [Server thread/INFO]: Generating keypair
+[02:47:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:47:52] [Server thread/INFO]: Using epoll channel type
+[02:47:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:47:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:47:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:47:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:47:52] [Server thread/INFO]: Preparing level "world"
+[02:47:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:47:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:47:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:47:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:47:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:47:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:47:55] [Server thread/INFO]: Time elapsed: 2545 ms
+[02:47:55] [Server thread/INFO]: Done (2.858s)! For help, type "help"
+[02:48:00] [Server thread/INFO]: TP_iam[/127.35.72.225:42447] logged in with entity id 7 at (-407.51702139787733, 71.0, -242.47916780566644)
+[02:48:00] [Server thread/INFO]: TP_iam joined the game
+[02:58:34] [Server thread/WARN]: TP_iam moved too quickly! -9.750072944672866,2.8322033533667508,-0.004513502352210708
+[02:58:38] [Server thread/WARN]: TP_iam was kicked for floating too long!
+[02:58:38] [Server thread/INFO]: TP_iam lost connection: Flying is not enabled on this server
+[02:58:38] [Server thread/INFO]: TP_iam left the game
+[02:58:52] [Server thread/INFO]: TP_iam[/127.35.72.225:59951] logged in with entity id 2042 at (-351.14534703146944, 72.24918707874468, -272.5843931173737)
+[02:58:52] [Server thread/INFO]: TP_iam joined the game
