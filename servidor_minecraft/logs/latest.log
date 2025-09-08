@@ -34,3 +34,8 @@
 [01:43:02] [Server thread/INFO]: TP_iam joined the game
 [01:51:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-392, y=95, z=-391} jb{x=-391, y=95, z=-392}
 [01:51:32] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-390, y=95, z=-390} jb{x=-390, y=93, z=-390}
+[02:00:11] [Server thread/WARN]: DOLAR was kicked for floating too long!
+[02:00:11] [Server thread/INFO]: DOLAR lost connection: Flying is not enabled on this server
+[02:00:11] [Server thread/INFO]: DOLAR left the game
+[02:00:30] [Server thread/INFO]: DOLAR[/127.165.88.142:40225] logged in with entity id 9853 at (-303.1386829251528, 74.06397461059889, -283.3731984179057)
+[02:00:30] [Server thread/INFO]: DOLAR joined the game
