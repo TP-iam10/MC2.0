@@ -27,3 +27,6 @@
 [01:54:56] [Server thread/INFO]: TP_iam[/127.35.72.225:51715] logged in with entity id 413 at (106.03603593735174, 11.0, 170.30000001192093)
 [01:54:56] [Server thread/INFO]: TP_iam joined the game
 [01:55:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=14, z=170} jb{x=128, y=13, z=170}
+[02:06:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-60, y=97, z=-13} jb{x=-61, y=98, z=-13}
+[02:09:43] [Server thread/INFO]: DOLAR[/127.165.88.142:36657] logged in with entity id 2686 at (-387.3921344186345, 69.0, -277.8458875967569)
+[02:09:43] [Server thread/INFO]: DOLAR joined the game
