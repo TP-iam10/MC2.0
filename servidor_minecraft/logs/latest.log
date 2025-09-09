@@ -866,3 +866,22 @@
 [03:41:32] [Server thread/INFO]: [Not Secure] <HEOHEK> norm,al
 [03:41:38] [Server thread/INFO]: [Not Secure] <DOLAR> es tarde Iam, no vas al cole?
 [03:41:46] [Server thread/INFO]: [Not Secure] <TP_iam> igual me levanto
+[03:41:52] [Server thread/INFO]: [Not Secure] <TP_iam> van a salir
+[03:41:55] [Server thread/INFO]: [Not Secure] <TP_iam> ?
+[03:42:00] [Server thread/INFO]: [Not Secure] <DOLAR> yo si
+[03:42:01] [Server thread/INFO]: [Not Secure] <TP_iam> para apagar server
+[03:42:03] [Server thread/INFO]: [Not Secure] <DOLAR> tu hermano?
+[03:42:09] [Server thread/INFO]: [Not Secure] <HEOHEK> yo me voy , entro otro dia, me avias para entrar
+[03:42:12] [Server thread/INFO]: [Not Secure] <DOLAR> vcen te dare un gast
+[03:42:19] [Server thread/INFO]: [Not Secure] <DOLAR> listo hermano
+[03:42:29] [Server thread/INFO]: Stopping the server
+[03:42:29] [Server thread/INFO]: Stopping server
+[03:42:29] [Server thread/INFO]: Saving players
+[03:42:29] [Server thread/INFO]: Saving worlds
+[03:42:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:42:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:42:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
