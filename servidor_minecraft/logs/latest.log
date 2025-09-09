@@ -5,3 +5,10 @@
 [00:21:26] [Server thread/INFO]: TP_iam has made the advancement [Hidden in the Depths]
 [00:21:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5, y=17, z=22} jb{x=6, y=16, z=32}
 [00:21:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5, y=17, z=22} jb{x=6, y=17, z=32}
+[00:27:28] [Server thread/INFO]: TP_iam lost connection: Disconnected
+[00:27:28] [Server thread/INFO]: TP_iam left the game
+[00:29:19] [Server thread/INFO]: TP_iam[/127.35.72.225:47543] logged in with entity id 18662 at (9.599846766421127, 18.0, 55.59315248504188)
+[00:29:19] [Server thread/INFO]: TP_iam joined the game
+[00:35:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=58, y=14, z=88} jb{x=63, y=13, z=86}
+[00:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=86, y=13, z=93} jb{x=86, y=12, z=93}
+[00:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=86, y=13, z=93} jb{x=86, y=13, z=94}
