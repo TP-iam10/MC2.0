@@ -12,3 +12,9 @@
 [00:35:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=58, y=14, z=88} jb{x=63, y=13, z=86}
 [00:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=86, y=13, z=93} jb{x=86, y=12, z=93}
 [00:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=86, y=13, z=93} jb{x=86, y=13, z=94}
+[00:38:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=83, y=6, z=125} jb{x=84, y=7, z=127}
+[00:39:51] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=88, y=11, z=150} jb{x=88, y=10, z=150}
+[00:40:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=88, y=11, z=150} jb{x=91, y=10, z=155}
+[00:40:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=88, y=11, z=150} jb{x=91, y=10, z=155}
+[00:52:42] [Server thread/INFO]: TP_iam lost connection: Disconnected
+[00:52:42] [Server thread/INFO]: TP_iam left the game
