@@ -1,2 +1,7 @@
 [00:05:40] [Server thread/INFO]: TP_iam has made the advancement [Who is Cutting Onions?]
 [00:12:02] [Server thread/WARN]: TP_iam moved too quickly! -8.085075749515568,-2.642500013113022,-5.347439291580599
+[00:16:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-46, y=84, z=-16} jb{x=-41, y=78, z=-16}
+[00:16:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-46, y=84, z=-16} jb{x=-41, y=78, z=-16}
+[00:21:26] [Server thread/INFO]: TP_iam has made the advancement [Hidden in the Depths]
+[00:21:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5, y=17, z=22} jb{x=6, y=16, z=32}
+[00:21:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5, y=17, z=22} jb{x=6, y=17, z=32}
